@@ -1,1 +1,1 @@
-## Experiment name
+## Measurement of high resistance by the method of leakage of a condenser

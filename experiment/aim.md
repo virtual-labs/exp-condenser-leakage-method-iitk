@@ -1,1 +1,1 @@
-### Aim of the experiment
+Measurement of high resistance by the method of leakage of a condenser
