@@ -3,14 +3,26 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Pysicsal Sciences
 :--|:--|
-<b> Lab | <b> Type name of the lab
+<b> Lab | <b> Basics of Physics
 <b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
 
 <h5> About the Experiment : </h5> <br>
 
-Type here: berif description of this experiment
+If a charged condenser of capacity C (having self leakage resistance ‘r’) is discharged through any high resistance R then
+log<sub>10</sub>⁡〖θ<sub>0</sub>/θ= t/2.303RC〗	-------- (1)
+
+the graph between log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗  and t will be straight line.
+
+where θ0 = the deflection corresponding to the first throw of the galvanometer
+          θ = the deflection of the galvanometer when the capacitor is discharged through resistor R.
+The relation (1) can also be written as 
+log<sub>10</sub>⁡〖θ<sub>0</sub>/α= t/(2.303R՛C)〗	-------- (2)
+Where α = the deflection of the galvanometer when the capacitor is discharged through resistor R՛
+and R՛ is the resistance of the equivalent parallel resistance of the galvanometer and self leakage resistance r of the condenser.
+1/(R՛)=1/r+1/R                       ---------- (3)
+
 
 <b>Name of Developer | <b> Prof Kantesh Balani
 :--|:--|
