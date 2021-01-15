@@ -86,7 +86,11 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Simulator will allow student to make connections and will alert him in case of wrong connections made. | Student will slide the power button of the simulator to ON position and will set the Potential difference applied.  | To initiate the simulator
+2.| Simulator will show the green light indicating that the simulator is ready for use.  | Student will change the condenser for 15 sec. and connect to galvanometer after charging.  |  To change the condenser for further procedure.
+3.|  Simulator will show the corresponding throw on the galvanometer by reading the position of the spot |  Student will mention these values of position of spot in the table.  |  To get the position corresponding to the first throw of galvanometer
+4.|  Simulator will show the corresponding throw on the galvanometer for self leakage and when connected through high resistance R. |  Student will mention these values in the table. |  To get the range of position spot of self leakage and after connection with high resistance R.
+5.|  Simulator will calculate log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗values corresponding to each t value entered in the Table. | Student will press the draw Graph button  |  To plot graph between and log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and t, and also between log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗 and t.
+
+6.| Simulator will show plot between log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and t, and also between log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗 and t. | Student will choose any two points on these graph and press the calculate slope button. | Student will note the value of the slope and calculate r and R՛ and will also calculate the high resistance R. 
+7.| Slope of the graph will be calculated and the high resistance R will be calculated. |  Student will change condenser value and will repeat the experiment | Student will again note the value of the slope and calculate r and R՛ and will also calculate the high resistance R. 
