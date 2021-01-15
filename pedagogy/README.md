@@ -29,8 +29,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| Identify the relation between Resistance, capacitance and deflection of galvanometer in discharging RC circuit.   | Recall | Identify
 2.| Describe the methodology to observe the deflection in galvanometer connected with discharging RC circuit.  | Understand  |  Describe
-3.|  Predict the leakage resistance, resistance R՛ by plotting a graph between log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and t also between log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗  and t.
- | Apply |  Predict
+3.|  Predict the leakage resistance, resistance R՛ by plotting a graph between log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and t also between log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗 and t.| Apply |  Predict
 4.| Examine the slope of plotted graph and calculate the value of r and R՛ | Analyze |  Examine
 5.|  Conclude the high resistance R connected to the circuit. | Evaluate  |  Conclude
 
@@ -91,6 +90,5 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 3.|  Simulator will show the corresponding throw on the galvanometer by reading the position of the spot |  Student will mention these values of position of spot in the table.  |  To get the position corresponding to the first throw of galvanometer
 4.|  Simulator will show the corresponding throw on the galvanometer for self leakage and when connected through high resistance R. |  Student will mention these values in the table. |  To get the range of position spot of self leakage and after connection with high resistance R.
 5.|  Simulator will calculate log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗values corresponding to each t value entered in the Table. | Student will press the draw Graph button  |  To plot graph between and log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and t, and also between log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗 and t.
-
 6.| Simulator will show plot between log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗 and t, and also between log<sub>10</sub>⁡〖θ<sub>0</sub>/α〗 and t. | Student will choose any two points on these graph and press the calculate slope button. | Student will note the value of the slope and calculate r and R՛ and will also calculate the high resistance R. 
 7.| Slope of the graph will be calculated and the high resistance R will be calculated. |  Student will change condenser value and will repeat the experiment | Student will again note the value of the slope and calculate r and R՛ and will also calculate the high resistance R. 
