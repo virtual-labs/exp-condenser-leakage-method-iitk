@@ -1,0 +1,56 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Measurement of high resistance by the method of leakage of condenser",     
+			"Lab": "Basics of Physics",               
+			"Discipline": "Physical Sciences",				 
+			"Technology": "HTML CSS Javascript"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Prof Kantesh Balani",         
+      "Institute": "Indian Institute of Technology, Kanpur",         
+      "InstituteAcronym": "IITK"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Prof Ashutosh Tiwari",             
+      "Institute": "REC Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+
+       {       
+			"Contributer": "Abhay Gupta",              
+      "Institute": "REC Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+
+       {       
+			"Contributer": "Praphull Maurya",             
+      "Institute": "REC Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+
+       {       
+			"Contributer": "Satish Kumar",              
+      "Institute": "REC Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+       {       
+			"Contributer": "Mohitendra Damailiya",              
+      "Institute": "REC Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+       {       
+			"Contributer": "Narendra Rajpoot",              
+      "Institute": "REC Banda",               
+			"InstituteAcronym": "RECB"         
+       }
+   ]
+
+}
