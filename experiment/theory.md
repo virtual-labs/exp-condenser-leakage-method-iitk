@@ -1,7 +1,7 @@
 If a charged condenser of capacity C (having self leakage resistance ‘r’) is discharged through any high resistance R then
 log<sub>10</sub>⁡(θ<sub>0</sub>/θ= t/2.303RC〗	-------- (1)
 
-the graph between log_10⁡〖θ<sub>0</sub>/θ〗  and t will be straight line.
+the graph between log<sub>10</sub>⁡〖θ<sub>0</sub>/θ〗  and t will be straight line.
 
 where θ<sub>0</sub> = the deflection corresponding to the first throw of the galvanometer
           θ = the deflection of the galvanometer when the capacitor is discharged through resistor R.
