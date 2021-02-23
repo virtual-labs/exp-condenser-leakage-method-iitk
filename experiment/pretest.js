@@ -90,7 +90,7 @@
 
 const myQuestions = [
   {
-    question: "The plot of log_10⁡〖θ_0/θ〗  and t for the circuit in the experiment is:",  ///// Write the question inside double quotes
+    question: "The plot of log<sub>10</sub>⁡(θ<sub>0</sub>/θ)  and t for the circuit in the experiment is:",  ///// Write the question inside double quotes
     answers: {
       a: "Straight line",                  ///// Write the option 1 inside double quotes
       b: "parabolic",                  ///// Write the option 2 inside double quotes
@@ -108,7 +108,7 @@ const myQuestions = [
       c: "nF",                  ///// Write the option 3 inside double quotes
       d: "none of these"                   ///// Write the option 4 inside double quotes
     },
-    correctAnswer: "a"                ///// Write the correct option inside double quotes
+    correctAnswer: "b"                ///// Write the correct option inside double quotes
   },                                 ///// To add more questions, copy the section below 
     									                  ///// this line
 
