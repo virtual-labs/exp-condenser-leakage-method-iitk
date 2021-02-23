@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "Slope of the graph between  log<sub>10</sub>&#920;<sub>o</sub>/&alpha; and t is:",  ///// Write the question inside double quotes
+      question: "Slope of the graph between  <img src='images/exp8_img_post.PNG'> and t is:",  ///// Write the question inside double quotes
       answers: {
         a: "Always positive",                  ///// Write the option 1 inside double quotes
         b: "Always negative",                  ///// Write the option 2 inside double quotes
