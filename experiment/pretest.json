@@ -1,1 +1,19 @@
-[{"question":"The plot of log<sub>10</sub>⁡(θ<sub>0</sub>/θ)  and t for the circuit in the experiment is:","answers":{"a":"Straight line","b":"parabolic","c":"hyperbolic","d":"eliptical"},"correctAnswer":"a"},{"question":"The capacity of the condenser connected to the circuit is of the order of","answers":{"a":"µF","b":"pF","c":"nF","d":"none of these"},"correctAnswer":"b"}]
+[{
+	"question": "The plot of log<sub>10</sub>⁡(θ<sub>0</sub>/θ)  and t for the circuit in the experiment is:",
+	"answers": {
+		"a": "Straight line",
+		"b": "parabolic",
+		"c": "hyperbolic",
+		"d": "eliptical"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The capacity of the condenser connected to the circuit is of the order of",
+	"answers": {
+		"a": "µF",
+		"b": "pF",
+		"c": "nF",
+		"d": "none of these"
+	},
+	"correctAnswer": "b"
+}]
