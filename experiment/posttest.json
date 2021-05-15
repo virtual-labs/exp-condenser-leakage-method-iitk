@@ -16,4 +16,23 @@
 		"d": "Kῼ"
 	},
 	"correctAnswer": "a"
+},{
+	"question": "The deflection in the Ballastic Galvanometer is directly proportional to:",
+	"answers": {
+		"a": "Charge present in the Battery",
+		"b": "Charge present in the condenser",
+		"c": "Current in the circuit",
+		"d": "NOT"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "Charge grows in the condenser:",
+	"answers": {
+		"a": "Linearly",
+		"b": "exponentially",
+		"c": "logarithmically",
+		"d": "NOT"
+	},
+	"correctAnswer": "b"
 }]
+
