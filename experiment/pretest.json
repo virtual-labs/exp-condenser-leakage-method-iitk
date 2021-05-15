@@ -16,4 +16,22 @@
 		"d": "none of these"
 	},
 	"correctAnswer": "b"
+}, {
+	"question": "Unit of RC is:",
+	"answers": {
+		"a": "m",
+		"b": "L",
+		"c": "Sec",
+		"d": "none of these"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",
+	"answers": {
+		"a": "series",
+		"b": "parallel",
+		"c": "both",
+		"d": "none of these"
+	},
+	"correctAnswer": "b"
 }]

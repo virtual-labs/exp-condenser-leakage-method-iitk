@@ -109,7 +109,25 @@ const myQuestions = [
       d: "none of these"                   ///// Write the option 4 inside double quotes
     },
     correctAnswer: "b"                ///// Write the correct option inside double quotes
-  },                                 ///// To add more questions, copy the section below 
+  }, {
+    question: "Unit of RC is:",  ///// Write the question inside double quotes
+    answers: {
+      a: "m",                  ///// Write the option 1 inside double quotes
+      b: "Sec",                  ///// Write the option 2 inside double quotes
+      c: "L",                  ///// Write the option 3 inside double quotes
+      d: "none of these"                   ///// Write the option 4 inside double quotes
+    },
+    correctAnswer: "b"                ///// Write the correct option inside double quotes
+  }, {
+    question: "The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",  ///// Write the question inside double quotes
+    answers: {
+      a: "series",                  ///// Write the option 1 inside double quotes
+      b: "parallel",                  ///// Write the option 2 inside double quotes
+      c: "both",                  ///// Write the option 3 inside double quotes
+      d: "none of these"                   ///// Write the option 4 inside double quotes
+    },
+    correctAnswer: "b"                ///// Write the correct option inside double quotes
+  },                                ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
