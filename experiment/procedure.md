@@ -3,7 +3,7 @@
 3.	Click on the “Resistor” button and then click on the drawing box.<br>
 4.	Click on the “Battery” button and then click on the drawing box.<br>
 5.	Click on the “Galvanometer” button and then click on the drawing box.<br>
-6.	Click on the “Condenser” button and then click on the drawing box.<br>
+6.	Click on the “Condenser” button and then click on the drawing box. Proper connections will be highlighted as green<br>
 7.	Click on the points to drawing board to complete the circuit.<br>
 8.	To start the simulation follow points 9 to 13<br>
 9.	Click on the “Power On” button.<br>
