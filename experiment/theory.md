@@ -2,12 +2,13 @@ Consider the circuit shown in the figure a condenser C, resistance R, Ballastic 
 <img src="images/fig1.PNG"><br>
 If a charged condenser of capacity C (having self leakage resistance ‘r’) is discharged through any high resistance R in time‘t’ then<br>
 <img src="images/fig2.PNG"><br>
-the graph between <img src="images/fig3_formula.PNG"> and t will be straight line.<br>
+the graph between <img src="images/fig3_formula.PNG"> and t will be straight line.<br><br>
 where &theta;<sub>0</sub> = the deflection corresponding to the first throw of the galvanometer
-          &theta = the deflection of the galvanometer when the capacitor is discharged through resistor R.
+          &theta; = the deflection of the galvanometer when the capacitor is discharged through resistor R.
 The relation (1) can also be written as <br>
 <img src="images/fig4_alpha.PNG"><br>
 Where &alpha; = the deflection of the galvanometer when the capacitor is discharged through resistor R'<br>
 and R՛ is the resistance of the equivalent parallel resistance of the galvanometer and self leakage resistance r of the condenser.<br>
 <img src="images/fig5.PNG">
+
 

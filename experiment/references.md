@@ -4,4 +4,3 @@
 4. https://www.msuniv.ac.in/Download/Pdf/316556f1bb3345d<br>
 5. https://www.scientific-devices.com.au/pdfs/WeTransfer-NZvJB6Cw/Resistance/High%20Resistance%20Measurement.pdf<br>
 6. https://www.osti.gov/servlets/purl/5111642
-

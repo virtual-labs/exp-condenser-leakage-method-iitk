@@ -1,5 +1,5 @@
 [{
-	"question": "The plot of log<sub>10</sub>⁡(θ<sub>0</sub>/θ)  and t for the circuit in the experiment is:",
+	"question": "1. The plot of log<sub>10</sub>⁡(θ<sub>0</sub>/θ)  and t for the circuit in the experiment is:",
 	"answers": {
 		"a": "Straight line",
 		"b": "parabolic",
@@ -8,7 +8,7 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "The capacity of the condenser connected to the circuit is of the order of",
+	"question": "2. The capacity of the condenser connected to the circuit is of the order of",
 	"answers": {
 		"a": "µF",
 		"b": "pF",
@@ -17,7 +17,11 @@
 	},
 	"correctAnswer": "b"
 }, {
+<<<<<<< HEAD
 	"question": "Unit of RC is:",
+=======
+	"question": "3. Unit of RC is:",
+>>>>>>> 59b70b5d5b744af5d636918fa54a17300904bfb1
 	"answers": {
 		"a": "m",
 		"b": "L",
@@ -26,7 +30,11 @@
 	},
 	"correctAnswer": "c"
 }, {
+<<<<<<< HEAD
 	"question": "The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",
+=======
+	"question": "4. The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",
+>>>>>>> 59b70b5d5b744af5d636918fa54a17300904bfb1
 	"answers": {
 		"a": "series",
 		"b": "parallel",
