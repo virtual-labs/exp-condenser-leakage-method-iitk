@@ -17,11 +17,7 @@
 	},
 	"correctAnswer": "b"
 }, {
-<<<<<<< HEAD
-	"question": "Unit of RC is:",
-=======
 	"question": "3. Unit of RC is:",
->>>>>>> 59b70b5d5b744af5d636918fa54a17300904bfb1
 	"answers": {
 		"a": "m",
 		"b": "L",
@@ -30,11 +26,7 @@
 	},
 	"correctAnswer": "c"
 }, {
-<<<<<<< HEAD
-	"question": "The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",
-=======
 	"question": "4. The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",
->>>>>>> 59b70b5d5b744af5d636918fa54a17300904bfb1
 	"answers": {
 		"a": "series",
 		"b": "parallel",
