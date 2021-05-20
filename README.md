@@ -3,7 +3,7 @@
 <b>Discipline | <b>Pysicsal Sciences
 :--|:--|
 <b> Lab | <b> Basics of Physics
-<b> Experiment|     <b> 8. Measurement of high resistance by the method of leakage of a condenser
+<b> Experiment|     <b> 8.  Measurement of high resistance by the method of leakage of a condenser
 
 <h5> About the Experiment : </h5> <br>
 
