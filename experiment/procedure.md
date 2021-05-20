@@ -18,4 +18,3 @@
 18.	Click “Draw Graph” button.<br>
 19.	Calculate the slope of the graph and enter the value m.<br>
 20.	Calculate the slope of the graph and enter the value R.
-

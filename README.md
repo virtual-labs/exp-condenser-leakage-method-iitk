@@ -1,7 +1,5 @@
 ## Introduction (Round 0)
 
-
-
 <b>Discipline | <b>Pysicsal Sciences
 :--|:--|
 <b> Lab | <b> Basics of Physics
