@@ -90,7 +90,7 @@
 
 const myQuestions = [
   {
-    question: "The plot of log<sub>10</sub>⁡(θ<sub>0</sub>/θ)  and t for the circuit in the experiment is:",  ///// Write the question inside double quotes
+    question: "1. The plot of log<sub>10</sub>⁡(θ<sub>0</sub>/θ)  and t for the circuit in the experiment is:",  ///// Write the question inside double quotes
     answers: {
       a: "Straight line",                  ///// Write the option 1 inside double quotes
       b: "parabolic",                  ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@ const myQuestions = [
   },
 
   {
-    question: "The capacity of the condenser connected to the circuit is of the order of",  ///// Write the question inside double quotes
+    question: "2. The capacity of the condenser connected to the circuit is of the order of",  ///// Write the question inside double quotes
     answers: {
       a: "µF",                  ///// Write the option 1 inside double quotes
       b: "pF",                  ///// Write the option 2 inside double quotes
@@ -110,7 +110,7 @@ const myQuestions = [
     },
     correctAnswer: "b"                ///// Write the correct option inside double quotes
   }, {
-    question: "Unit of RC is:",  ///// Write the question inside double quotes
+    question: "3. Unit of RC is:",  ///// Write the question inside double quotes
     answers: {
       a: "m",                  ///// Write the option 1 inside double quotes
       b: "Sec",                  ///// Write the option 2 inside double quotes
@@ -119,7 +119,7 @@ const myQuestions = [
     },
     correctAnswer: "b"                ///// Write the correct option inside double quotes
   }, {
-    question: "The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",  ///// Write the question inside double quotes
+    question: "4. The self leakage resistance of the condenser and the resistance of the Ballistic Galvanometer are in: ",  ///// Write the question inside double quotes
     answers: {
       a: "series",                  ///// Write the option 1 inside double quotes
       b: "parallel",                  ///// Write the option 2 inside double quotes
