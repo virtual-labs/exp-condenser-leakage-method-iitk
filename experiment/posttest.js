@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "Slope of the graph between  <img src='images/exp8_img_post.PNG'> and t is:",  ///// Write the question inside double quotes
+      question: "Slope of the graph between <img src='images/formula_alph.PNG'> and t is:",  ///// Write the question inside double quotes
       answers: {
         a: "Always positive",                  ///// Write the option 1 inside double quotes
         b: "Always negative",                  ///// Write the option 2 inside double quotes
@@ -109,6 +109,24 @@
         d: "Kῼ"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
+    }, {
+      question: "The deflection in the Ballastic Galvanometer is directly proportional to:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Charge present in the Battery",                  ///// Write the option 1 inside double quotes
+        b: "Charge present in the condenser",                  ///// Write the option 2 inside double quotes
+        c: "Current in the circuit",                  ///// Write the option 3 inside double quotes
+        d: "NOT"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    }, {
+      question: "Charge grows in the condenser:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Linearly",                  ///// Write the option 1 inside double quotes
+        b: "exponentially",                  ///// Write the option 2 inside double quotes
+        c: "logarithmically",                  ///// Write the option 3 inside double quotes
+        d: "NOT"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
