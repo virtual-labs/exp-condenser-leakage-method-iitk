@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "Slope of the graph between  <img src='images/formula_alph.PNG'> and t is:",  ///// Write the question inside double quotes
+      question: "1. Slope of the graph between  <img src='images/formula_alph.PNG'> and t is:",  ///// Write the question inside double quotes
       answers: {
         a: "Always positive",                  ///// Write the option 1 inside double quotes
         b: "Always negative",                  ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@
     },
 
     {
-      question: "The order of the unknown resistance is:.",  ///// Write the question inside double quotes
+      question: "2. The order of the unknown resistance is:.",  ///// Write the question inside double quotes
       answers: {
         a: "Mῼ",                  ///// Write the option 1 inside double quotes
         b: "ῼ",                  ///// Write the option 2 inside double quotes
@@ -110,7 +110,7 @@
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     }, {
-      question: "The deflection in the Ballastic Galvanometer is directly proportional to:",  ///// Write the question inside double quotes
+      question: "3. The deflection in the Ballastic Galvanometer is directly proportional to:",  ///// Write the question inside double quotes
       answers: {
         a: "Charge present in the Battery",                  ///// Write the option 1 inside double quotes
         b: "Charge present in the condenser",                  ///// Write the option 2 inside double quotes
@@ -119,7 +119,7 @@
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     }, {
-      question: "Charge grows in the condenser:",  ///// Write the question inside double quotes
+      question: "4. Charge grows in the condenser:",  ///// Write the question inside double quotes
       answers: {
         a: "Linearly",                  ///// Write the option 1 inside double quotes
         b: "exponentially",                  ///// Write the option 2 inside double quotes
