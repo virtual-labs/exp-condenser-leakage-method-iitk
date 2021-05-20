@@ -33,7 +33,7 @@ and R՛ is the resistance of the equivalent parallel resistance of the galvanome
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Prof. Kantesh Balani | Faculty | MSE | IIT Kanpur, Kanpur | kbalani@iitk.ac.in
+1 | Dr. Ashutosh Tiwari | Faculty | Physics | REC Banda | ashutosh.tiwari@recbanda.ac.in 
 2 | Abhay Gupta | Student | Information Technology | REC, Banda |abhaypc26@gmail.com
 3 | Praphull Maurya | Student | Information Technology | REC, Banda |praphullmaurya123@gmail.com
 4 | Satish Kumar | Student | Information Technology | REC, Banda |satishkumar7991@gmail.com
