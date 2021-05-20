@@ -1,0 +1,46 @@
+[{
+	"question": "1. Slope of the graph between  <img src='images/formula_alph.PNG'> and t is:",
+	"answers": {
+		"a": "Always positive",
+		"b": "Always negative",
+		"c": "Positive then negative",
+		"d": "Negative then positive"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2. The order of the unknown resistance is:.",
+	"answers": {
+		"a": "Mῼ",
+		"b": "ῼ",
+		"c": "µῼ",
+		"d": "Kῼ"
+	},
+	"correctAnswer": "a"
+},{
+<<<<<<< HEAD
+	"question": "The deflection in the Ballastic Galvanometer is directly proportional to:",
+=======
+	"question": "3. The deflection in the Ballastic Galvanometer is directly proportional to:",
+>>>>>>> 59b70b5d5b744af5d636918fa54a17300904bfb1
+	"answers": {
+		"a": "Charge present in the Battery",
+		"b": "Charge present in the condenser",
+		"c": "Current in the circuit",
+		"d": "NOT"
+	},
+	"correctAnswer": "b"
+},{
+<<<<<<< HEAD
+	"question": "Charge grows in the condenser:",
+=======
+	"question": "4. Charge grows in the condenser:",
+>>>>>>> 59b70b5d5b744af5d636918fa54a17300904bfb1
+	"answers": {
+		"a": "Linearly",
+		"b": "exponentially",
+		"c": "logarithmically",
+		"d": "NOT"
+	},
+	"correctAnswer": "b"
+}]
+

@@ -3,13 +3,14 @@
 
 
 <br>
-<b> Experiment To Measure high resistance by leakage method  <a name="top"></a> <br>
+
+<b> Experiment Measurement of high resistance by the method of leakage of a condenser  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Pysicsal Sciences
 :--|:--|
 <b> Lab | <b> Basics of Physics
-<b> Experiment|     <b> 1. To Measure high resistance by leakage method
+<b> Experiment|     <b> 1. Measurement of high resistance by the method of leakage of a condenser
 
 
 <h4> [1. Focus Area](#LO)
